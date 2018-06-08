@@ -1,1 +1,1 @@
-This reposity is created to learn git~
+This repository is created to learn git~
