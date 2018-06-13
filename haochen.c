@@ -5,7 +5,7 @@ int main( int argc, char** argv)
 {
         printf("hello, world\n");
 	a = 1;
-	cout << "rubbish !" << endl;
+	cout << "amazing!" << endl;
 	return 0;
 }
 
